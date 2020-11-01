@@ -23,7 +23,7 @@ table {
 	font-style: normal
 }
 p{
-	text-align: left,right;
+	text-align: left,right, justify;
 	font-size: 18pt;
 }
 a {
